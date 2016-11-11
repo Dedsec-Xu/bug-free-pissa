@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1477625887 source:e:\workspace\c\10_28_classexperiment\233.c
+	<stdio.h>
+	<stdlib.h>
+	"233.h"
+
+1477625355 e:\workspace\c\10_28_classexperiment\233.h
+
+1477625862 source:e:\workspace\c\10_28_classexperiment\main.c
+	<stdio.h>
+	<stdlib.h>
+

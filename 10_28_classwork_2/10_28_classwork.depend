@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1477618418 source:e:\workspace\c\10_28_classwork\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1477625394 source:e:\workspace\c\10_28_classwork_2\233.c
+	<stdio.h>
+	<stdlib.h>
+	"233.h"
+
+1477625355 e:\workspace\c\10_28_classwork_2\233.h
+
+1477621987 source:e:\workspace\c\10_28_classwork_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"233.h"
+
